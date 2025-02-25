@@ -2655,3 +2655,14 @@ input, select, textarea {
     font-size: 2.5em; /* Tamaño del título */
     color: #2c3e50;   /* Coincide con el texto */
 }
+#about, #about h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#portfolio, #portfolio h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#contact, #contact h2 {
+    font-family: "Times New Roman", Times, serif;
+}
